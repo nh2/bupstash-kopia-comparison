@@ -1,6 +1,6 @@
 # Comparing `bupstash` and `kopia`
 
-Here I collect some benchmarks and of the data backup/deduplicaton tools `bupstash` and `kopia`.
+Here I collect some benchmarks and of the data backup/deduplicaton tools [`bupstash`](https://bupstash.io/) and [`kopia`](https://kopia.io/).
 
 The goal is to share my own evaluation notes with others.
 
